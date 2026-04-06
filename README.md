@@ -5,8 +5,14 @@ Full-stack developer & diseñador UI — construyo productos web de punta a punt
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=flat&logo=cssmodules&logoColor=white)
 
 ---
 
@@ -21,9 +27,10 @@ Combino desarrollo full-stack con visión de diseño UI, lo que me permite const
 
 | Área | Tecnologías |
 |---|---|
-| Frontend | Next.js 14 (App Router), React, TypeScript, CSS Modules, Framer Motion |
-| Backend | Node.js, APIs REST |
-| Deploy | Vercel |
+| Frontend | Next.js 14 (App Router), React, TypeScript, Angular, CSS Modules, Framer Motion, Tailwind CSS |
+| Backend | Node.js, Spring Boot, Java, APIs REST |
+| Bases de datos | MySQL, Firebase Firestore, NeonDB |
+| Auth & Deploy | Firebase Auth, Vercel |
 | Diseño | Figma, UI Design |
 | SEO & Analytics | Google Search Console, Google Analytics |
 
@@ -36,7 +43,8 @@ Sitio construido desde cero con animaciones, SEO optimizado, Google Analytics, f
 `Next.js` `TypeScript` `Framer Motion` `CSS Modules` `SEO`
 
 ### Inkode 🚧 *(building in public)*
-Proyecto personal en construcción. Seguí el proceso en mis commits.
+Herramienta web para developers: canvas infinito donde podés guardar y anotar bloques de código. La diferencia clave — las anotaciones viven en una capa separada, por lo que el código siempre se copia limpio. Pensalo como Figma, pero para código.
+`Next.js` `TypeScript` `tldraw` `Monaco Editor` `Firebase` `Tailwind CSS`
 
 ---
 
