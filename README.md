@@ -42,7 +42,7 @@ Combino desarrollo full-stack con visión de diseño UI, lo que me permite const
 Sitio construido desde cero con animaciones, SEO optimizado, Google Analytics, formulario con rate limiting y protección XSS. Deploy en Vercel con dominio propio.
 `Next.js` `TypeScript` `Framer Motion` `CSS Modules` `SEO`
 
-### Inkode 🚧 *(building in public)*
+### Inkode 🚧
 Herramienta web para developers: canvas infinito donde podés guardar y anotar bloques de código. La diferencia clave — las anotaciones viven en una capa separada, por lo que el código siempre se copia limpio. Pensalo como Figma, pero para código.
 `Next.js` `TypeScript` `tldraw` `Monaco Editor` `Firebase` `Tailwind CSS`
 
